@@ -1,4 +1,4 @@
-##Olá!Eu sou o Caio Manoel 🖐️
+## Olá!Me chamo Caio Manoel 🖐️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-leonardo-a22859231/) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caio.m.c.leonardo@gmail.com)
 
